@@ -1,5 +1,5 @@
 
-# Open Source Doctor Appointment Booking System using PHP
+# Doctor Appointment Booking System using PHP
 ![](https://github.com/GanesshMM/Online-Doctor-Appointment-Booking/blob/main/Screenshots/Screenshot%20(1).png)
 
 [Edoc](https://github.com/GanesshMM/Online-Doctor-Appointment-Booking/) is a Simple web project that made for e-channeling Using PHP,HTML & CSS.
